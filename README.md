@@ -2,12 +2,8 @@
 
 A simple command-line Python program that takes a customer's food order and prints a bill with discount and GST.
 
-> **Submitted by:** <Your Name> | **Roll No:** <Your Roll No>
-> **Tagging:** @<instructor-github-username>
-
-## Project Image
-
-![Project Image](project_image.png)
+> **Submitted by:** Aparajita Gujral | **Roll No:** RU-26-02378
+> **Tagging:** @https://github.com/SATYAPRAKASHSETHY
 
 ## Problem Statement
 
